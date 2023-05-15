@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "858106610039",
+    "project_id": "muslim-in-504f5",
+    "storage_bucket": "muslim-in-504f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858106610039:android:1ac6f2105014f20a616172",
+        "android_client_info": {
+          "package_name": "com.imvlab.muslim_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858106610039-4pnhev70cnejvddqjoc2n3jvq8pd1h0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAtgFic5Wm0AzWl17CXhN4mH4Saw_bfYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858106610039-4pnhev70cnejvddqjoc2n3jvq8pd1h0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
